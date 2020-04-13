@@ -1,0 +1,87 @@
+body{
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Comic Neue', cursive;
+
+}
+
+.pp{
+  height: 225px;
+  margin-top: 80px
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+  margin: 50px 0 -30px 0;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 8%;
+  border-color: grey;
+}
+.top-container{
+
+  position: relative;
+  padding-top: 80px;
+  background-color: #cff1ef;
+}
+.middle-container{
+
+background-color: #d3f6f3;
+
+padding-bottom: 40px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  padding-top: 25px;
+  padding-bottom: 5px;
+}
+.c1{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  height: 180px;
+}
+.c2{
+  position: absolute;
+  left: 300px;
+  bottom: 230px;
+  height: 180px;
+}
+.mtn3{
+  height: 450px;
+}
+.pic1{
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.pic2{
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
